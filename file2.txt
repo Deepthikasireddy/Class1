@@ -1,1 +1,4 @@
 Cloud is a platform where we can pay rent for software.
+cloud means using someone's computer(software) online instead of owning by our.
+Cloud Providers are AWS,GCP,AZURE
+Cloud contains server,storage,Networking/Internet
